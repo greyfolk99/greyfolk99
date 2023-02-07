@@ -36,4 +36,4 @@ out/
 ### VS Code ###
 .vscode/
 
-api_key.txt
+secrets.txt
