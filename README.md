@@ -2,9 +2,11 @@
   
   
 ###### Today's Quote from GPT3:  
->  for people who are struggling
+> 
 
-"You are not alone. We are all in this together."
+If your mind can conceive it,
+you can achieve it.
+
 ##
   
   
