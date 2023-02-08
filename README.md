@@ -31,8 +31,6 @@ public boolean canISleepToday(final MyBrain brain, SpaghettiProject project) {
         try {
             brain.solve(error);
             errors.remove(error);
-        } catch (MyBrainIsDeadException gg){
-            return true;
         } catch (Exception e) {
             project.addError(e)
         }
