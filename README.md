@@ -2,7 +2,7 @@
   
   
 ###### Today's Quote from GPT3:  
-> Reach for the stars, but don't forget to keep your feet on the ground.
+> "The only way to do great work is to love what you do." -Steve Jobs
 
 ##
   
