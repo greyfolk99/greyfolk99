@@ -13,7 +13,7 @@ def generate_quote():
 
     response = openai.Completion.create(
         engine="text-davinci-002",
-        prompt="Please generate a motivational quote",
+        prompt="Please generate a motivational quote in one line: ",
         max_tokens=1024,
         n=1,
         stop=None,
@@ -31,7 +31,7 @@ def update_readme(quote):
     # Find the line to update
     for i, line in enumerate(lines):
         if line.startswith("###### Today's Quote from GPT3:"):
-            lines[i + 1] = "> " + quote + "\n"
+            lines[i + 1] = "> " + quote.strip().replace("\n", " ") + "\n"
             break
 
     # Write the updated file to disk
@@ -42,6 +42,8 @@ def update_readme(quote):
 # Commit and push the file to GitHub
 quote = generate_quote()
 update_readme(quote)
+
+
 os.system("git add README.md")
-os.system("git commit -m 'Automated update of README.md'")
+os.system(f'git commit -m "Automated update of README.md"')
 os.system("git push origin main")
