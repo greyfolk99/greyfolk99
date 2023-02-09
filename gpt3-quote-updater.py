@@ -46,4 +46,4 @@ update_readme(quote)
 
 os.system("git add README.md")
 os.system(f'git commit -m "Automated update of README.md"')
-os.system("git push origin main")
+os.system("git push -u origin main")
