@@ -2,7 +2,7 @@
   
   
 ###### Today's Quote from GPT3:  
-> "The only way to do great work is to love what you do." -Steve Jobs
+> If your mind can conceive it, you can achieve it.
 
 ##
   
