@@ -50,4 +50,3 @@ if platform.system() == "Windows":
 else:
     os.system(f"git commit -m 'Automated update of README.md'")
 os.system("git push -u origin main")
-
