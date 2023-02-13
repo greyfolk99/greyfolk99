@@ -46,7 +46,7 @@ update_readme(quote)
 
 os.system("git add README.md")
 if platform.system() == "Windows":
-    os.system(f'git commit -m "Automated update of README.md"')
+    os.system('git commit -m "Automated update of README.md"')
 else:
-    os.system(f"git commit -m 'Automated update of README.md'")
+    os.system("git commit -m 'Automated update of README.md'")
 os.system("git push -u origin main")
