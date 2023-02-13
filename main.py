@@ -1,6 +1,7 @@
 import openai
 import os
 import platform
+# Updated
 
 
 # Get a quote from GPT3
