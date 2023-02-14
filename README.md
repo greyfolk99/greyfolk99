@@ -2,7 +2,7 @@
   
   
 ###### Today's Quote from GPT3:  
-> No matter how hard it gets, never give up on your dreams.
+> If your mind can conceive it, you can achieve it.
 
 ##
   
