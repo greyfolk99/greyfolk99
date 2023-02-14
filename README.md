@@ -13,7 +13,7 @@ Language: Java, Javascript, Python
 Frameworks: Spring, React  
 DB: RDBM(MySQL, Oracle)  
 OS: Window, Linux  
-etc : Git, Github, Jenkins, AWS EC2  
+ETC : Git, Github, Jenkins, AWS EC2  
 
 ## Timeline
 
