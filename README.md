@@ -9,11 +9,11 @@
   
 ## Stack
 
-Language: Java, Javascript, Python
-Frameworks: Spring, React
-DB: RDBM(MySQL, Oracle)
-OS: Window, Linux
-etc : Git, Github, Jenkins, AWS EC2
+Language: Java, Javascript, Python  
+Frameworks: Spring, React  
+DB: RDBM(MySQL, Oracle)  
+OS: Window, Linux  
+etc : Git, Github, Jenkins, AWS EC2  
 
 ## Timeline
 
