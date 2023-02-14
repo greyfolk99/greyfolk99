@@ -44,10 +44,3 @@ def update_readme(quote):
 # Commit and push the file to GitHub
 quote = generate_quote()
 update_readme(quote)
-
-os.system("git add README.md")
-if platform.system() == "Windows":
-    os.system('git commit -m "Automated update of README.md"')
-else:
-    os.system("git commit -m 'Automated update of README.md'")
-os.system("git push -u origin main")
