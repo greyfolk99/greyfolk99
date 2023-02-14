@@ -2,7 +2,7 @@
   
   
 ###### Today's Quote from GPT3:  
-> "You are never too old to set new goals or to dream a new dream."
+> No matter how hard it gets, never give up on your dreams.
 
 ##
   
