@@ -2,7 +2,7 @@
   
   
 ###### Today's Quote from GPT3:  
-> "Your only limit is the amount of willingness that you exhibit."
+> If your mind can conceive it, you can achieve it.
 
 ##
   
