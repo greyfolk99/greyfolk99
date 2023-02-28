@@ -2,7 +2,7 @@
   
   
 ###### Today's Quote from GPT3:  
-> If your mind can conceive it, you can achieve it.
+> "You can't put a limit on how much you can improve and how much you can do. There are no limits on what you can be, do, or have in life."
 
 ##
   
