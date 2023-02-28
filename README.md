@@ -13,7 +13,7 @@ Language: Java, Javascript, Python
 Frameworks: Spring
 DB: RDBM(MySQL, Oracle)  
 OS: Window, Linux(Cent OS)  
-etc : Git, Github, nginx, Jenkins, AWS  
+etc : Git, Github, Nginx, Jenkins, AWS  
 
 ## Timeline
 
