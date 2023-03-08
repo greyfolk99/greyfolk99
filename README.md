@@ -2,16 +2,18 @@
   
   
 ###### Today's Quote from GPT3:  
-> "The sky is not the limit. There are infinite possibilities. Just keep reaching for the stars."
+> "The sky is not the limit. There are infinite possibilities."
 
 ##
   
   
-  
 ## Stack
 
-Proficient: Java, HTML/CSS, Spring, JPA, JavaScript, jQuery  
-Knowledgeable: React, Git, Docker, JUnit, Python
+Language: Java, Javascript, Python  
+Frameworks: Spring
+DB: RDBM(MySQL, Oracle)  
+OS: Window, Linux(Cent OS)  
+etc : Git, Github, Nginx, Jenkins, AWS  
 
 ## Timeline
 
