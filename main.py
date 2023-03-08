@@ -24,6 +24,7 @@ def update_quote():
         if line.startswith("###### Today's Quote from GPT3:"):
             i += 1
             line_to_update = lines[i]
+            print("before: " + line_to_update)
             break
 
     # Read the API key from the secrets file
@@ -56,4 +57,4 @@ def update_quote():
 
 # Commit and push the file to GitHub
 quote = update_quote()
-print(quote)
+print("after: " + quote)
