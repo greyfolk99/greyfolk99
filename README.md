@@ -7,11 +7,13 @@
 ##
   
   
-  
 ## Stack
 
-Proficient: Java, HTML/CSS, Spring, JPA, JavaScript, jQuery  
-Knowledgeable: React, Git, Docker, JUnit, Python
+Language: Java, Javascript, Python  
+Frameworks: Spring
+DB: RDBM(MySQL, Oracle)  
+OS: Window, Linux(Cent OS)  
+etc : Git, Github, Nginx, Jenkins, AWS  
 
 ## Timeline
 
