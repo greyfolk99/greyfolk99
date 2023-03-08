@@ -2,7 +2,7 @@
   
   
 ###### Today's Quote from GPT3:  
-> "The sky is not the limit. There are infinite possibilities. Just keep reaching for the stars."
+> "If your mind can conceive it, you can achieve it."
 
 ##
   
