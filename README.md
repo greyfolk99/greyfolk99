@@ -10,7 +10,7 @@
 ## Stack
 
 Language: Java, Javascript, Python  
-Frameworks: Spring
+Frameworks: Spring  
 DB: RDBM(MySQL, Oracle)  
 OS: Window, Linux(Cent OS)  
 etc : Git, Github, Nginx, Jenkins, AWS  
