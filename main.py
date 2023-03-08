@@ -57,5 +57,5 @@ def update_quote():
 
 # Commit and push the file to GitHub
 quote = update_quote()
-print('#12')
+print('#f05')
 print("after: " + quote)
