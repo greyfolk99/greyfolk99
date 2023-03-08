@@ -1,0 +1,119 @@
+[33m389fd38[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{0}: checkout: moving from main to main
+[33m389fd38[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{1}: checkout: moving from develop to main
+[33mdf39ba8[m[33m ([m[1;31morigin/develop[m[33m, [m[1;32mdevelop[m[33m)[m HEAD@{2}: checkout: moving from main to develop
+[33m8e2c387[m HEAD@{3}: reset: moving to HEAD
+[33m8e2c387[m HEAD@{4}: checkout: moving from develop to main
+[33ma2b245c[m HEAD@{5}: reset: moving to HEAD
+[33ma2b245c[m HEAD@{6}: checkout: moving from 11-merge-from-feature03 to develop
+[33ma9efbd1[m[33m ([m[1;32m11-merge-from-feature03[m[33m)[m HEAD@{7}: checkout: moving from main to 11-merge-from-feature03
+[33m8e2c387[m HEAD@{8}: checkout: moving from develop to main
+[33ma2b245c[m HEAD@{9}: checkout: moving from 11-merge-from-feature03 to develop
+[33ma9efbd1[m[33m ([m[1;32m11-merge-from-feature03[m[33m)[m HEAD@{10}: delete_branch: 11-merge-from-feature03-1 origin/11-merge-from-feature03-1 [389fd387cde9bac476de6b95148f8bcae590c05f]
+[33ma9efbd1[m[33m ([m[1;32m11-merge-from-feature03[m[33m)[m HEAD@{11}: checkout: moving from 11-merge-from-feature03-1 to 11-merge-from-feature03
+[33m389fd38[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{12}: checkout: moving from df39ba83cc972a559787e9d249f3002a3f0fab47 to 11-merge-from-feature03-1
+[33mdf39ba8[m[33m ([m[1;31morigin/develop[m[33m, [m[1;32mdevelop[m[33m)[m HEAD@{13}: undo: delete_branch: 11-merge-from-feature03 [a9efbd1d7004e07df9622ab0326acc389ae6337d]
+[33mdf39ba8[m[33m ([m[1;31morigin/develop[m[33m, [m[1;32mdevelop[m[33m)[m HEAD@{14}: undo: checkout: moving from df39ba83cc972a559787e9d249f3002a3f0fab47 to develop
+[33ma2b245c[m HEAD@{15}: checkout: moving from df39ba83cc972a559787e9d249f3002a3f0fab47 to develop
+[33mdf39ba8[m[33m ([m[1;31morigin/develop[m[33m, [m[1;32mdevelop[m[33m)[m HEAD@{16}: delete_branch: 11-merge-from-feature03 [a9efbd1d7004e07df9622ab0326acc389ae6337d]
+[33mdf39ba8[m[33m ([m[1;31morigin/develop[m[33m, [m[1;32mdevelop[m[33m)[m HEAD@{17}: delete_branch: 11-merge-from-feature03-1 origin/11-merge-from-feature03-1 [389fd387cde9bac476de6b95148f8bcae590c05f]
+[33mdf39ba8[m[33m ([m[1;31morigin/develop[m[33m, [m[1;32mdevelop[m[33m)[m HEAD@{18}: rebase: checkout refs/remotes/origin/develop
+[33m389fd38[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{19}: checkout: moving from 11-merge-from-feature03 to 11-merge-from-feature03-1
+[33ma9efbd1[m[33m ([m[1;32m11-merge-from-feature03[m[33m)[m HEAD@{20}: checkout: moving from main to 11-merge-from-feature03
+[33m8e2c387[m HEAD@{21}: checkout: moving from develop to main
+[33ma2b245c[m HEAD@{22}: checkout: moving from 11-merge-from-feature03 to develop
+[33ma9efbd1[m[33m ([m[1;32m11-merge-from-feature03[m[33m)[m HEAD@{23}: commit: feature03
+[33ma2b245c[m HEAD@{24}: checkout: moving from develop to 11-merge-from-feature03
+[33ma2b245c[m HEAD@{25}: delete_branch: 8-merge-from-feature02 [3b200b594b980f43ff5982b5724b0a3312505990]
+[33ma2b245c[m HEAD@{26}: delete_branch: 7-merge-from-feature01 [b29782d180eff254800231b9d434ba63d2075c0b]
+[33ma2b245c[m HEAD@{27}: Fast forward branch develop to branch origin/develop
+[33md8ce6f4[m HEAD@{28}: checkout: moving from 7-merge-from-feature01 to develop
+[33mb29782d[m HEAD@{29}: checkout: moving from develop to 7-merge-from-feature01
+[33md8ce6f4[m HEAD@{30}: checkout: moving from 7-merge-from-feature01 to develop
+[33mb29782d[m HEAD@{31}: commit: feature01
+[33md8ce6f4[m HEAD@{32}: checkout: moving from 8-merge-from-feature02 to 7-merge-from-feature01
+[33m3b200b5[m HEAD@{33}: commit: feature02
+[33md8ce6f4[m HEAD@{34}: checkout: moving from 7-merge-from-feature01 to 8-merge-from-feature02
+[33md8ce6f4[m HEAD@{35}: checkout: moving from 8-merge-from-feature02 to 7-merge-from-feature01
+[33md8ce6f4[m HEAD@{36}: checkout: moving from 7-merge-from-feature01 to 8-merge-from-feature02
+[33md8ce6f4[m HEAD@{37}: checkout: moving from develop to 7-merge-from-feature01
+[33md8ce6f4[m HEAD@{38}: delete_branch: 5-git-merge-test---feature-5 origin/5-git-merge-test---feature-5 [d8ce6f417280470cbeb6b27114acee6e701fbc7b]
+[33md8ce6f4[m HEAD@{39}: undo: delete_branch: 5-git-merge-test---feature-5 origin/5-git-merge-test---feature-5 [d8ce6f417280470cbeb6b27114acee6e701fbc7b]
+[33md8ce6f4[m HEAD@{40}: delete_branch: 5-git-merge-test---feature-5 origin/5-git-merge-test---feature-5 [d8ce6f417280470cbeb6b27114acee6e701fbc7b]
+[33md8ce6f4[m HEAD@{41}: checkout: moving from 5-git-merge-test---feature-5 to develop
+[33md8ce6f4[m HEAD@{42}: commit: #5
+[33ma886b7d[m HEAD@{43}: checkout: moving from develop to 5-git-merge-test---feature-5
+[33ma886b7d[m HEAD@{44}: delete_branch: feature [a886b7d62e3b8cb0f573487c3198fd149b85dc34]
+[33ma886b7d[m HEAD@{45}: delete_branch: feature2 [a886b7d62e3b8cb0f573487c3198fd149b85dc34]
+[33ma886b7d[m HEAD@{46}: checkout: moving from feature2 to develop
+[33ma886b7d[m HEAD@{47}: reset: moving to a886b7d62e3b8cb0f573487c3198fd149b85dc34 [372629d25d076d4b63a23c92db4466f52327a003]
+[33m64222bf[m HEAD@{48}: commit: #5 feature02
+[33ma886b7d[m HEAD@{49}: checkout: moving from develop to feature2
+[33ma886b7d[m HEAD@{50}: checkout: moving from feature01 to develop
+[33ma886b7d[m HEAD@{51}: checkout: moving from develop to feature01
+[33ma886b7d[m HEAD@{52}: checkout: moving from main to develop
+[33m8e2c387[m HEAD@{53}: checkout: moving from main to main
+[33m8e2c387[m HEAD@{54}: checkout: moving from 4094b95ece8622eb09fd1bf3b4f63f091a649d86 to main
+[33m4094b95[m HEAD@{55}: checkout: moving from develop2 to origin/develop2
+[33m4094b95[m HEAD@{56}: checkout: moving from main to develop2
+[33m8e2c387[m HEAD@{57}: checkout: moving from develop2 to main
+[33m4094b95[m HEAD@{58}: commit: test2
+[33ma886b7d[m HEAD@{59}: checkout: moving from develop to develop2
+[33ma886b7d[m HEAD@{60}: checkout: moving from main to develop
+[33m8e2c387[m HEAD@{61}: checkout: moving from a886b7d62e3b8cb0f573487c3198fd149b85dc34 to main
+[33ma886b7d[m HEAD@{62}: merge origin/develop: Fast-forward
+[33m8e2c387[m HEAD@{63}: checkout: moving from develop to origin/main
+[33ma886b7d[m HEAD@{64}: commit: test
+[33m8e2c387[m HEAD@{65}: checkout: moving from main to develop
+[33m8e2c387[m HEAD@{66}: commit: test
+[33m404667d[m HEAD@{67}: commit: test
+[33m1ba00f3[m HEAD@{68}: checkout: moving from develop to main
+[33mfcaf1da[m HEAD@{69}: checkout: moving from main to develop
+[33m1ba00f3[m HEAD@{70}: checkout: moving from develop to main
+[33mfcaf1da[m HEAD@{71}: checkout: moving from main to develop
+[33m1ba00f3[m HEAD@{72}: pull origin main: Merge made by the 'ort' strategy.
+[33m799853a[m HEAD@{73}: commit: test
+[33mfcaf1da[m HEAD@{74}: checkout: moving from a5bf6d62c57b071f4a584e8ead564de5966bec0d to main
+[33ma5bf6d6[m HEAD@{75}: checkout: moving from develop to origin/main
+[33mfcaf1da[m HEAD@{76}: checkout: moving from a5bf6d62c57b071f4a584e8ead564de5966bec0d to develop
+[33ma5bf6d6[m HEAD@{77}: checkout: moving from develop to origin/main
+[33mfcaf1da[m HEAD@{78}: checkout: moving from a5bf6d62c57b071f4a584e8ead564de5966bec0d to develop
+[33ma5bf6d6[m HEAD@{79}: checkout: moving from main to origin/main
+[33mfcaf1da[m HEAD@{80}: merge develop: Fast-forward
+[33mfb9523a[m HEAD@{81}: checkout: moving from develop to main
+[33mfcaf1da[m HEAD@{82}: checkout: moving from main to develop
+[33mfb9523a[m HEAD@{83}: checkout: moving from develop to main
+[33mfcaf1da[m HEAD@{84}: commit: added log
+[33mfb9523a[m HEAD@{85}: checkout: moving from main to develop
+[33mfb9523a[m HEAD@{86}: checkout: moving from develop to main
+[33mfb9523a[m HEAD@{87}: merge main: Fast-forward
+[33ma5bf6d6[m HEAD@{88}: checkout: moving from main to develop
+[33mfb9523a[m HEAD@{89}: commit: fixed prompt
+[33ma5bf6d6[m HEAD@{90}: pull origin main: Merge made by the 'ort' strategy.
+[33m44ff5d1[m HEAD@{91}: commit: removed git command
+[33mb041191[m HEAD@{92}: pull origin main: Merge made by the 'ort' strategy.
+[33m64e7466[m HEAD@{93}: commit: added jenkins job with schedule
+[33m1f8459b[m HEAD@{94}: commit: fix syntax
+[33mc9b2226[m HEAD@{95}: Branch: renamed refs/heads/main to refs/heads/main
+[33mc9b2226[m HEAD@{97}: checkout: moving from develop to main
+[33mc9b2226[m HEAD@{98}: checkout: moving from main to develop
+[33mc9b2226[m HEAD@{99}: checkout: moving from develop to main
+[33mc9b2226[m HEAD@{100}: commit: updated
+[33mbd7a51d[m HEAD@{101}: pull origin main: Merge made by the 'ort' strategy.
+[33me4211c7[m HEAD@{102}: commit: rebase
+[33m169b7fa[m HEAD@{103}: Branch: renamed refs/heads/main to refs/heads/develop
+[33m169b7fa[m HEAD@{105}: commit: Automated update of README.md
+[33mea367ab[m HEAD@{106}: commit: Automated update of README.md
+[33m7e3ba8f[m HEAD@{107}: commit: "updated bat files"
+[33m1deb7d6[m HEAD@{108}: commit: Automated update of README.md
+[33mb42791e[m HEAD@{109}: merge origin/main: Merge made by the 'ort' strategy.
+[33m885bf16[m HEAD@{110}: commit: Automated update of README.md
+[33m9024aaf[m HEAD@{111}: commit: "updated bat files"
+[33m7de8831[m HEAD@{112}: commit: Automated update of README.md
+[33m6acf1db[m HEAD@{113}: commit: Automated update of README.md
+[33mb8a403b[m HEAD@{114}: commit: Automated update of README.md
+[33mce8791b[m HEAD@{115}: commit: Automated update of README.md
+[33mf6411cc[m HEAD@{116}: commit: Automated update of README.md
+[33mc809c08[m HEAD@{117}: commit: Automated update of README.md
+[33m8c373ab[m HEAD@{118}: commit: first commit
+[33m696050e[m HEAD@{119}: Branch: renamed refs/heads/master to refs/heads/main
+[33m696050e[m HEAD@{121}: commit (initial): first commit
