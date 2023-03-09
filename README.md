@@ -2,7 +2,7 @@
   
   
 ###### Today's Quote from GPT3:  
-> It's never too late to start over.
+> "The best way to predict your future is to create it." - Abraham Lincoln
 
 ##
   
