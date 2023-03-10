@@ -2,7 +2,7 @@
   
   
 ###### Today's Quote from GPT3:  
-> "The best way to predict your future is to create it." - Abraham Lincoln
+> "You can't build a reputation on what you are going to do." - Henry Ford
 
 ##
   
