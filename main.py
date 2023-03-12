@@ -37,7 +37,7 @@ def update_quote():
     # Get the quote from GPT3
     response = openai.Completion.create(
         engine="text-davinci-002",
-        prompt="Please generate a motivational quote in one line, except " + line_to_update,
+        prompt="Please generate a motivational quote in one line, except '" + line_to_update + "'",
         max_tokens=1024,
         n=1,
         stop=None,

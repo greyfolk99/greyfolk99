@@ -2,7 +2,7 @@
   
   
 ###### Today's Quote from GPT3:  
-> You are never too old to set new goals or to dream a new dream.
+> You only live once, so make sure you live your life to the fullest and chase your dreams.
 
 ##
   
