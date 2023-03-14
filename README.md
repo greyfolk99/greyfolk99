@@ -2,7 +2,7 @@
   
   
 ###### Today's Quote from GPT3:  
-> > You are never too old to set new goals or to dream a new dream.
+> > > The sky is the limit.
 
 ##
   
