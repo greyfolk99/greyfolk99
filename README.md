@@ -2,7 +2,7 @@
   
   
 ###### Today's Quote from GPT3:  
-> You are never too old to set new goals or to dream a new dream.
+> > "The best way to find out if you can trust somebody is to trust them." -Ernest Hemingway
 
 ##
   
