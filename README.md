@@ -2,7 +2,7 @@
   
   
 ###### Today's Quote from GPT3:  
-> > "The best way to find out if you can trust somebody is to trust them." -Ernest Hemingway
+> "The only way to find out if you can trust someone is to trust them." -Ernest Hemingway
 
 ##
   
