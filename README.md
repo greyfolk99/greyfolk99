@@ -2,7 +2,7 @@
   
   
 ###### Today's Quote from GPT3:  
-> "The only way to find out if you can trust someone is to trust them." -Ernest Hemingway
+> "If you want to go fast, go alone. If you want to go far, go together." -African proverb
 
 ##
   
