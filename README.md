@@ -2,7 +2,7 @@
   
   
 ###### Today's Quote from GPT3:  
-> "If you want to go fast, go alone. If you want to go far, go together." -African proverb
+> "You can't put a limit on how much you can improve and how much you can do. There are no limits on what you can be, do, or have in life." -Tony Robbins
 
 ##
   
