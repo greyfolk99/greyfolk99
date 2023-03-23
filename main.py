@@ -23,7 +23,7 @@ def update_quote():
     for i, line in enumerate(lines):
         if line.startswith("###### Today's Quote from GPT3:"):
             i += 1
-            line_to_update = lines[i]
+            line_to_update = lines[i][2:-1]
             print("before: " + line_to_update)
             break
 
@@ -37,7 +37,7 @@ def update_quote():
     # Get the quote from GPT3
     response = openai.Completion.create(
         engine="text-davinci-002",
-        prompt="Please generate a motivational quote in one line, except '" + line_to_update + "'",
+        prompt="Please generate a daily motivational quote in one line, not the last one, '" + line_to_update + "'",
         max_tokens=1024,
         n=1,
         stop=None,
