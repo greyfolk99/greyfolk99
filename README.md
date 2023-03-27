@@ -2,7 +2,7 @@
   
   
 ###### Today's Quote from GPT3:  
-> "The only way to do great work is to love what you do."
+> "If you love what you do, you'll never work a day in your life."
 
 ##
   
