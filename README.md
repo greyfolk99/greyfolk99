@@ -2,7 +2,7 @@
   
   
 ###### Today's Quote from GPT3:  
-> "If you love what you do, you'll never work a day in your life."
+> "Your only limit is the amount of willingness that you exhibit."
 
 ##
   
