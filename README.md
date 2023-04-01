@@ -2,7 +2,7 @@
   
   
 ###### Today's Quote from GPT3:  
-> "Your only limit is the amount of willingness that you exhibit."
+> "You are never too old to set new goals or to dream a new dream."
 
 ##
   
