@@ -2,7 +2,7 @@
   
   
 ###### Today's Quote from GPT3:  
-> "The only way to do great work is to love what you do."
+> "If you want to live a happy life, tie it to a goal, not to people or things." - Albert Einstein
 
 ##
   
