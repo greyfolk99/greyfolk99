@@ -2,7 +2,7 @@
   
   
 ###### Today's Quote from GPT3:  
-> "If you want to live a happy life, tie it to a goal, not to people or things." - Albert Einstein
+> "You are never too old to set new goals or to dream a new dream." - C.S. Lewis
 
 ##
   
