@@ -2,7 +2,7 @@
   
   
 ###### Today's Quote from GPT3:  
-> "You are never too old to set new goals or to dream a new dream." -C.S. Lewis
+> "The sky is not the limit. There are infinite possibilities." - Unknown
 
 ##
   
