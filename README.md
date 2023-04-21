@@ -2,7 +2,7 @@
   
   
 ###### Today's Quote from GPT3:  
-> "Your only limit is the amount of willingness that you exhibit." -Tony Robbins
+> "You can't put a limit on how much you can improve and how much you can do. There are no limits on what you can be, do, or have in life." -Tony Robbins
 
 ##
   
