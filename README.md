@@ -2,7 +2,7 @@
   
   
 ###### Today's Quote from GPT3:  
-> "You can't put a limit on how much you can improve and how much you can do. There are no limits on what you can be, do, or have in life." -Tony Robbins
+> "You can be anything or anyone you want, just put your mind to it."
 
 ##
   
