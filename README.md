@@ -2,7 +2,7 @@
   
   
 ###### Today's Quote from GPT3:  
-> "You can be anything or anyone you want, just put your mind to it."
+> "The sky is the limit."
 
 ##
   
