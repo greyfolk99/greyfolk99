@@ -2,7 +2,7 @@
   
   
 ###### Today's Quote from GPT3:  
-> "The sky is the limit."
+> "If your mind can conceive it, you can achieve it."
 
 ##
   
