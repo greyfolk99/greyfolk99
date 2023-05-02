@@ -2,7 +2,7 @@
   
   
 ###### Today's Quote from GPT3:  
-> "If your mind can conceive it, you can achieve it."
+> "You are never too old to set new goals or to dream a new dream."
 
 ##
   
