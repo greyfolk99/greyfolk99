@@ -2,7 +2,7 @@
   
   
 ###### Today's Quote from GPT3:  
-> "The sky is the limit."
+> "The sky is not the limit. There are infinite possibilities."
 
 ##
   
