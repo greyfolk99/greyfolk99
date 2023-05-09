@@ -2,7 +2,7 @@
   
   
 ###### Today's Quote from GPT3:  
-> "You only fail when you stop trying."
+> "The only way to do great work is to love what you do."
 
 ##
   
