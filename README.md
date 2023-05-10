@@ -2,7 +2,7 @@
   
   
 ###### Today's Quote from GPT3:  
-> "The only way to do great work is to love what you do."
+> "Your only limit is the amount of willingness that you exhibit."
 
 ##
   
