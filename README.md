@@ -2,7 +2,7 @@
   
   
 ###### Today's Quote from GPT3:  
-> "You can't put a limit on how much you can improve and how much you can do. There are no limits on what you can be, do, or have in life."
+> "The sky is not the limit. There are infinite possibilities."
 
 ##
   
