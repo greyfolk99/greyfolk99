@@ -10,37 +10,15 @@
 ## Stack
 
 Language: Java, Javascript, Python  
-Frameworks: Spring  
+Frameworks: Spring, React
 DB: RDBM(MySQL, Oracle)  
-OS: Window, Linux(Cent OS)  
-etc : Git, Github, Nginx, Jenkins, AWS  
+OS: Window, Linux  
+etc : Nginx, Jenkins, AWS  
 
 ## Timeline
-
+>  (2023.04 - now ) Joined Mirae Climate Dev Team
 >  (2022.07 - 2022.01) Java Programmer Course in EZEN Academy
 ---
-
-## A joke about Java developer
-
-```java
-@Transactional(rollbackFor = Exception.class)
-public boolean canISleepToday(final MyBrain brain, SpaghettiProject project) {
-
-    Iterator<Exception> errors = project.getErrors().iterator();
-
-    while (errors.hasNext()) {
-        Exception error = errors.next();
-        try {
-            brain.solve(error);
-            errors.remove(error);
-        } catch (Exception e) {
-            project.addError(e)
-        }
-    }
-    
-    return project.isDone();
-}
-```
 
 <!--
 **greyfolk99/greyfolk99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
