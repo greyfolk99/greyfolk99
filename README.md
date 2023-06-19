@@ -16,7 +16,7 @@ OS: Window, Linux
 etc : Nginx, Jenkins, AWS  
 
 ## Timeline
->  (2023.04 - now ) Joined Mirae Climate Dev Team
+>  (2023.04 - now ) Joined Mirae Climate Dev Team   
 >  (2022.07 - 2022.01) Java Programmer Course in EZEN Academy
 ---
 
