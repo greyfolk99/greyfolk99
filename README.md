@@ -9,11 +9,13 @@
   
 ## Stack
 
-Language: Java, Javascript, Python  
-Frameworks: Spring, React
-DB: RDBM(MySQL, Oracle)  
-OS: Window, Linux  
-etc : Nginx, Jenkins, AWS  
+Language: 
+- Java  
+- Javascript  
+
+Frameworks: 
+- Spring Boot  
+- React  
 
 ## Timeline
 >  (2023.04 - now ) Joined Mirae Climate Dev Team   
