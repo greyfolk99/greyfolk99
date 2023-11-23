@@ -1,21 +1,22 @@
-### A fresh and fit developer
-  
-  
-###### Today's Quote from GPT3:  
-> "You are never too old to set new goals or to dream a new dream."
+### A dog
 
-##
-  
   
 ## Stack
 
 Language: 
 - Java  
-- Javascript  
+- JavaScript
+- Python
 
 Frameworks: 
 - Spring Boot  
-- React  
+- React
+- Angular
+
+Others:
+ - MYSQL
+ - Docker
+ - Linux
 
 ## Timeline
 >  (2023.04 - now ) Joined Mirae Climate Dev Team   
