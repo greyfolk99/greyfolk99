@@ -2,13 +2,14 @@
 
 Languages: 
 - Java  
-- JavaScript
+- javaScript / TypeScript
 - Python
 
 Frameworks: 
 - Spring
 - React
 - Angular
+- Flask
 
 Others:
  - MySQL / MariaDB
