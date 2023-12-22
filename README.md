@@ -1,20 +1,17 @@
-### A dog
+## Tech Stacks
 
-  
-## Stack
-
-Language: 
+Languages: 
 - Java  
 - JavaScript
 - Python
 
 Frameworks: 
-- Spring Boot  
+- Spring
 - React
 - Angular
 
 Others:
- - MYSQL
+ - MySQL / MariaDB
  - Docker
  - Linux
 
