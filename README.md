@@ -10,21 +10,13 @@
 >  (2022.07 - 2022.01) Java Programmer Course in EZEN Academy
 ---
 
+### I joined these projects
+mostly worked for projects that are related to building research platforms for climate change, air quality, smart city, UAM, etc.
+> - K-AChemS
+> - SIJAQ
+> - SMART-ULSAN
+> - K-UAM  
 
-### I joined projects as
-
-> __Frontend Developer__
-> - <U>data visualization</U>
-> - <U>reactive web UI</U>
-
-> __Backend Developer__
-> - <U>data processing</U> with data from RDB and files such as csv, netcdf for generating aggregated data and files with geographical information
-> - <U>batch handling</U>
-> - authentication system (jwt / session based, with customized server / open source tool like KeyCloak)
-
-> __Something else__  
-> - build CICD
-> - comply security policy 
 
 ### with programming languages: 
 > - Java
@@ -37,18 +29,22 @@
 >   - React, Nextjs(headless), Angular
 >   - redux, d3, leaflet, threejs, etc 
 > - Backend
->   - Spring, Flask
->   - Spring Batch, Spring Security, Spring Jpa
+>   - Spring Boot
 
 ### with few of query languages for database
 > - MySQL
 > - MariaDB
-
+> - PostgreSQL
+ 
 ### with open source tools 
 > - Docker
 > - Airflow
 > - Jenkins
-> - NGINX
+> - Nginx
+> - KeyCloak
+> - Minio
+> - OpenSearch
+> - Prometheus
 
 
 <!--
