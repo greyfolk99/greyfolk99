@@ -10,14 +10,6 @@
 >  (2022.07 - 2022.01) Java Programmer Course in EZEN Academy
 ---
 
-### I joined these projects
-mostly worked for projects that are related to building research platforms for climate change, air quality, smart city, UAM, etc.
-> - K-AChemS
-> - SIJAQ
-> - SMART-ULSAN
-> - K-UAM  
-
-
 ### with programming languages: 
 > - Java
 > - JavaScript
